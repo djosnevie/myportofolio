@@ -1,4 +1,4 @@
-# Djodjo Kabongo - Portofolio
+# Djodjo Kabongo - Porfolio
 
 ## Description
-This is my personnal portofolio
+This is my personnal porfolio
